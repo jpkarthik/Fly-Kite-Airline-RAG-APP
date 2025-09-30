@@ -29,4 +29,4 @@ CHROMA_DB_PATH=chroma_db
 
 PDF_FILE_NAME=PDF_FILES/Flykite Airlines_ HRP.pdf
 
-<img width="703" height="185" alt="image" src="https://github.com/user-attachments/assets/3e58094c-4ed0-4953-a3bb-abeed25a4e01" />
+
