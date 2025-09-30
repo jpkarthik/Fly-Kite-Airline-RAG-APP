@@ -10,12 +10,23 @@ A modular Retrieval-Augmented Generation (RAG) application for Fly-Kite Airlines
 
 
 setup the .env file with below key and values
+
 GROQ_API_KEY=<<groq key>>
+
 OPEN_API_KEY=<<open api key>>
+
 HF_TOKEN=<<HF TOKEN>>
+
 CHUNK_SIZE=500
+
 CHUNK_OVERLAP=20
+
 SENTENCE_TRANSFORMER_MODEL=sentence-transformers/all-MiniLM-L6-v2
+
 GROQ_LLM_MODEL=llama-3.3-70b-versatile
+
 CHROMA_DB_PATH=chroma_db
-PDF_FILE_NAME=PDF_FILES/Flykite Airlines_ HRP.pdf<img width="703" height="185" alt="image" src="https://github.com/user-attachments/assets/3e58094c-4ed0-4953-a3bb-abeed25a4e01" />
+
+PDF_FILE_NAME=PDF_FILES/Flykite Airlines_ HRP.pdf
+
+<img width="703" height="185" alt="image" src="https://github.com/user-attachments/assets/3e58094c-4ed0-4953-a3bb-abeed25a4e01" />
